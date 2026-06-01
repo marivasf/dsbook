@@ -8,3 +8,5 @@ _book
 packages.bib
 git-example
 *.txt
+!transcripts/*.txt
+audio_files/
